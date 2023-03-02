@@ -1,0 +1,186 @@
+[
+  {
+    "category": "Fairitales",
+    "nameEng": [
+      "Wizard",
+      "Fairy",
+      "Princess",
+      "Mermaid",
+      "King",
+      "Witch",
+      "Knight",
+      "Dragon"
+    ],
+    "nameRus": [
+      "Волшебник",
+      "Фея",
+      "Принцесса",
+      "Русалка",
+      "Король",
+      "Ведьма",
+      "Рыцарь",
+      "Дракон"
+    ]
+  },
+  {
+    "category": "Animals1",
+    "nameEng": [
+      "Cow",
+      "Crocodale",
+      "Hedgehog",
+      "Panda",
+      "Pig",
+      "Raccoon",
+      "Sheep",
+      "Tiger"
+    ],
+    "nameRus": [
+      "Корова",
+      "Крокодил",
+      "Ежик",
+      "Панда",
+      "Свинка",
+      "Енот",
+      "Барашек",
+      "Тигр"
+    ]
+  },
+  {
+    "category": "Animals2",
+    "nameEng": [
+      "Cat",
+      "Owl",
+      "Goat",
+      "Deer",
+      "Lynx",
+      "Koala",
+      "Hippo",
+      "Unicorn"
+    ],
+    "nameRus": [
+      "Кот",
+      "Сова",
+      "Козлик",
+      "Олень",
+      "Рысь",
+      "Коала",
+      "Бегемот",
+      "Единорог"
+    ]
+  },
+  {
+    "category": "Animals3",
+    "nameEng": [
+      "Frog",
+      "Bird",
+      "Turtle",
+      "Dog",
+      "Fox",
+      "Jellyfish",
+      "Beetle",
+      "Whale"
+    ],
+    "nameRus": [
+      "Лягушка",
+      "Птичка",
+      "Черепашка",
+      "Собака",
+      "Лиса",
+      "Медуза",
+      "Жук",
+      "Кит"
+    ]
+  },
+  {
+    "category": "Food1",
+    "nameEng": [
+      "Sausage",
+      "Salad",
+      "Rolls",
+      "Ham",
+      "Hotdog",
+      "Bread",
+      "Tacos",
+      "Cake"
+    ],
+    "nameRus": [
+      "Колбаса",
+      "Салат",
+      "Роллы",
+      "Ветчина",
+      "Хот-дог",
+      "Хлеб",
+      "Тако",
+      "Торт"
+    ]
+  },
+  {
+    "category": "Food2",
+    "nameEng": [
+      "Sandwich",
+      "Egg",
+      "Fries",
+      "Donut",
+      "Cheese",
+      "Muffin",
+      "Wok",
+      "Burger"
+    ],
+    "nameRus": [
+      "Сендвич",
+      "Яйцо",
+      "Картофель фри",
+      "Пончик",
+      "Сыр",
+      "Кексик",
+      "Вок",
+      "Бургер"
+    ]
+  },
+  {
+    "category": "Nature",
+    "nameEng": [
+      "Mushroom",
+      "Bee",
+      "Cactus",
+      "Flower",
+      "Watering can",
+      "Leaf",
+      "Planet",
+      "Shovel"
+    ],
+    "nameRus": [
+      "Гриб",
+      "Пчелка",
+      "Кактус",
+      "Цветок",
+      "Лейка",
+      "Листик",
+      "Планета",
+      "Лопатка"
+    ]
+  },
+  {
+    "category": "Places",
+    "nameEng": [
+      "Desert",
+      "Village",
+      "Room",
+      "River",
+      "Beach",
+      "City",
+      "Field",
+      "Forest"
+    ],
+    "nameRus": [
+      "Пустыня",
+      "Деревн",
+      "Комната",
+      "Речка",
+      "Пляж",
+      "Город",
+      "Поле",
+      "Лес"
+    ]
+  }
+]
